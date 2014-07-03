@@ -6,7 +6,7 @@
 
 ##RECIPE HASH
 
-A hash is just another specific type of data collection, similiar to an array. With a hash, instead of using numbered indexes to access data, you use any object to do so.
+A hash is just another specific type of data collection, similiar to an array. With a hash, instead of using numbered indexes to access data, you use an object to do so.
 
 A hash looks like this:
 ```RUBY
@@ -22,10 +22,10 @@ In this example, my hash is given the variable name `student_ages`. This hash is
 More information about hashes can be found in the [docs](http://www.ruby-doc.org/core-2.1.1/Hash.html).
 
 We're going to build a hash that stores the recipe of homemade mac and cheese.
+You're going to write your code in `recipe_hash.rb`.
+1. Create an empty hash called `mac_and_cheese_recipe`. An empty hash is a hash with nothing in it. It's literally empty. 
 
-1. Create an empty hash called `mac_and_cheese_recipe`. 
-
-2. Add ingredients and amounts to the hash:
+2. Add ingredients and amounts to the hash. All of the amounts should be strings. For the ingredients, you'll want to be sure to sub underscores for spaces and add a semi-colon to the beginning.
   - elbow pasta - 2 cups
   - butter - 1/2 stick
   - whole milk - 1 cup
