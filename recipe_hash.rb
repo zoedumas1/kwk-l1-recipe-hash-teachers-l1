@@ -1,49 +1,47 @@
 #code your solutions here
-require 'pry'
 
-#1:
-def empty_hash
-  #code your solution here directly after the puts
-  puts 
-end
+#1: Inside the `recipe_ingredients` method, create an hash called `mac_and_cheese_recipe` that has the following data:
+#  - elbow pasta - 2 cups
+#  - butter - 1/2 stick
+#  - whole milk - 1 cup
+#  - shredded cheddar cheese - 3 cups
+#  All of the amounts should be strings. For the ingredients, you'll want to be sure to sub underscores for spaces and add a semi-colon to the beginning. #The method should return this hash.
 
-#2
 def recipe_ingredients
-  #code your solution here. You'll want to call your hash name directly after the puts
-  puts
+  
 end
 
-#3:
+#2: Copy and paste your `mac_and_cheese_recipe` hash into this method. Write code that returns the amount of cheese that is needed in the recipe, using the hash.
+
 def amount_of_cheese
-  # you'll need to include your whole hash in this method on the lines before the puts
-  #code your solution here directly after the puts
-  puts
+  
 end
 
-#4:
+#3: Copy and paste your `mac_and_cheese_recipe` hash into this method. Use `puts` to print out every ingredient and amount in the hash by iterating through the collection. You'll want to use the `each` method.
+
 def ingredients_and_amounts
-  #you'll need to include your whole hash in this method
-  #code your solution here
+  
 end
 
 
-#5:
+#4: Copy and paste your `mac_and_cheese_recipe` hash into this method. Now use `puts` to print out just the ingredients without the amounts. You'll want to use `each_key`
+
 def ingredients
-  #you'll need to include your whole hash in this method
-  #code your solution here
+
 end
 
-#6:
+#5: Copy and paste your `mac_and_cheese_recipe` hash into this method. Now use `puts` to print out just the amounts without the ingredients. You'll want to use `each_value`.
+
 def amounts
-  #you'll need to include your whole hash in this method
-  #code your solution here
+
 end
 
-#7:
+#6: Copy and paste your `mac_and_cheese_recipe` hash into this method. Return the number of ingredients in the `mac_and_cheese_recipe` hash.
 def number_ingredients
-  #you'll need to include your whole hash in this method
-  #code your solution here
+
 end
+
+
 
 
 

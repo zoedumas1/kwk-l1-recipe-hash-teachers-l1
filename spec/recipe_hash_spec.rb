@@ -2,24 +2,15 @@ require 'spec_helper.rb'
 
 describe 'RECIPE_HASH' do 
 
-  describe '#empty_hash' do
-    it "prints an empty hash" do
-      expect($stdout).to receive(:puts).with({})
-      empty_hash
-    end
-  end
-
    describe '#recipe_ingredients' do
     it "prints a hash of all 4 ingredients and amounts" do
-      expect($stdout).to receive(:puts).with({:elbow_pasta=>"2 cups", :butter=>"1/2 stick", :whole_milk=>"1 cup", :shredded_cheddar_cheese=>"3 cups"})
-      recipe_ingredients
+      expect(recipe_ingredients).to eq({:elbow_pasta=>"2 cups", :butter=>"1/2 stick", :whole_milk=>"1 cup", :shredded_cheddar_cheese=>"3 cups"})
     end
   end
 
   describe '#amount_of_cheese' do
     it 'prints 3 cups' do
-      expect($stdout).to receive(:puts).with("3 cups")
-      amount_of_cheese
+      expect(amount_of_cheese).to eq("3 cups")
     end
   end
 

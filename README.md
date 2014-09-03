@@ -1,6 +1,8 @@
 ---
-  tags: hashes, kids
+  tags: hashes, kids, iteration
   languages: ruby
+  level: 2
+  type: lab
 ---
 
 
@@ -22,22 +24,4 @@ In this example, my hash is given the variable name `student_ages`. This hash is
 More information about hashes can be found in the [docs](http://www.ruby-doc.org/core-2.1.1/Hash.html).
 
 We're going to build a hash that stores the recipe of homemade mac and cheese.
-You're going to write your code in `recipe_hash.rb`.
-1. Create an empty hash called `mac_and_cheese_recipe`. An empty hash is a hash with nothing in it. It's literally empty. 
-
-2. Add ingredients and amounts to the hash. All of the amounts should be strings. For the ingredients, you'll want to be sure to sub underscores for spaces and add a semi-colon to the beginning.
-  - elbow pasta - 2 cups
-  - butter - 1/2 stick
-  - whole milk - 1 cup
-  - shredded cheddar cheese - 3 cups
-
-3. Return just the amount of cheese in the recipe.
-
-4. Use `puts` to print out every ingredient and amount in the hash by iterating through the collection. You'll want to use the `each` method.
-
-5. Now use `puts` to print out just the ingredients without the amounts. You'll want to use `each_key`
-
-6. Use `puts` to print out just the ingredient amounts. `each_value` will help.
-
-7. Return the number of ingredients in the hash.
-
+You're going to write your code in `recipe_hash.rb`. Open `recipe_hash.rb` and follow the instructions in the file!
