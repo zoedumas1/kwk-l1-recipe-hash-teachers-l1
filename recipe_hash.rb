@@ -5,7 +5,7 @@
 #  - butter - 1/2 stick
 #  - whole milk - 1 cup
 #  - shredded cheddar cheese - 3 cups
-#  All of the amounts should be strings. For the ingredients, you'll want to be sure to sub underscores for spaces and add a semi-colon to the beginning. #The method should return this hash.
+#  All of the ingredients should be symbols and amounts should be strings. For the ingredients, you'll want to be sure to sub underscores for spaces and add a semi-colon to the beginning. #The method should return this hash.
 
 def recipe_ingredients
   
