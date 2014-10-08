@@ -13,9 +13,9 @@ We're going to build a hash that stores a recipe for homemade mac and cheese.
 
 Open `recipe_hash.rb` and follow the instructions in the file!
 
-More information about hashes can be found in the [Ruby docs](http://www.ruby-doc.org/core-2.1.1/Hash.html) and below.
+More information about hashes can be found in the [Ruby docs](http://www.ruby-doc.org/core-2.1.1/Hash.html).
 
-A hash looks like this:
+And as a reminder, a hash looks like this:
 
 ```ruby
 student_ages = {
