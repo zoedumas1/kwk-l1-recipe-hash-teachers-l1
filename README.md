@@ -5,6 +5,8 @@
   type: lab
 ---
 
+![mac](http://media.giphy.com/media/hrDNS8XeHoU0M/giphy.gif)
+
 ##Recipe Hash
 
 A hash is a data structure, similar to an array, but instead of using numbered indexes to access data we use strings (or symbols).
