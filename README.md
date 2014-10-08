@@ -7,9 +7,7 @@
 
 ![mac](http://media.giphy.com/media/hrDNS8XeHoU0M/giphy.gif)
 
-##Recipe Hash
-
-A hash is a data structure, similar to an array, but instead of using numbered indexes to access data we use strings (or symbols).
+##Cheesy Mac Attack Hash
 
 We're going to build a hash that stores a recipe for homemade mac and cheese.
 
@@ -17,7 +15,7 @@ Open `recipe_hash.rb` and follow the instructions in the file!
 
 More information about hashes can be found in the [Ruby docs](http://www.ruby-doc.org/core-2.1.1/Hash.html).
 
-And as a reminder, a hash looks like this:
+And as a reminder, a hash is a data structure, similar to an array, but instead of using numbered indexes to access data we use strings (or symbols). Hashes looks like this:
 
 ```ruby
 student_ages = {
