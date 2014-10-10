@@ -11,7 +11,7 @@
 
 We're going to build a hash that stores a recipe for homemade mac and cheese.
 
-This is a test driven lab so first fork and clone the lab. Then open `recipe_hash.rb` and follow the instructions in the file! Don't forget to run rspec as you work to make sure you are passing the tests.
+This is a test driven lab so first fork and clone the lab. Then open `recipe_hash.rb` and follow the instructions in the file! Don't forget to run `rspec` as you work to make sure you are passing the tests.
 
 More information about hashes can be found in the [Ruby docs](http://www.ruby-doc.org/core-2.1.1/Hash.html).
 
