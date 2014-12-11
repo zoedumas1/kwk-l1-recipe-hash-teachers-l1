@@ -4,18 +4,15 @@
   level: 2
   type: lab
 ---
-
-![mac](http://media.giphy.com/media/hrDNS8XeHoU0M/giphy.gif)
-
 ##Cheesy Mac Attack Hash
-
+<img src="https://s3.amazonaws.com/after-school-assets/macncheese.gif" align="right" width="400px" hspace="10">
 We're going to build a hash that stores a recipe for homemade mac and cheese.
 
-This is a test driven lab so first fork and clone the lab. Then open `recipe_hash.rb` and follow the instructions in the file! Don't forget to run `rspec` as you work to make sure you are passing the tests.
+This is a test driven lab so ***first fork and clone the lab***. Then open `recipe_hash.rb` and follow the instructions in the file! Don't forget to run `rspec` (from the main directory for this lab) as you work to make sure you are passing the tests.
 
 More information about hashes can be found in the [Ruby docs](http://www.ruby-doc.org/core-2.1.1/Hash.html).
 
-And as a reminder, a hash is a data structure, similar to an array, but instead of using numbered indexes to access data we use strings (or symbols). Hashes looks like this:
+And as a reminder, a hash is a data structure, similar to an array, but instead of using numbered indexes to access data we linke each piece of data with a string (or symbol). Hashes looks like this:
 
 ```ruby
 student_ages = {
@@ -26,4 +23,4 @@ student_ages = {
 }
 ```
 
-In this example, the hash is stored in the variable `student_ages`. Each age is stored in a key value pair: the name is the key and the value associated with it is the age. If you wanted to access the age of Arel, you would access it by calling `student_ages[:arel]`. Hashes are great because they allow us to store data with context. If we just stored everyone's ages in an array `student_ages = [25, 27, 25, 26]`, we would have know idea which age belongs to whom.
+In this example, the hash is stored in the variable `student_ages`. Each age is stored in a key value pair: the name is the key and the value associated with it is the age. If you wanted to access the age of Arel, you would access it by calling `student_ages[:arel]`. Hashes are great because they allow us to store data with additional context. If we just stored everyone's ages in an array `student_ages = [25, 27, 25, 26]`, we would have know idea which age belongs to whom!
