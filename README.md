@@ -5,8 +5,7 @@
   type: lab
 ---
 ##Cheesy Mac Attack Hash
-<img src="https://s3.amazonaws.com/after-school-assets/macncheese.gif" align="right" width="400px" hspace="10">
-We're going to build a hash that stores a recipe for homemade mac and cheese.
+<img src="https://s3.amazonaws.com/after-school-assets/macncheese.gif" align="right" width="400px" hspace="10"> We're going to build a hash that stores a recipe for homemade mac and cheese.
 
 This is a test driven lab so ***first fork and clone the lab***. Then open `recipe_hash.rb` and follow the instructions in the file! Don't forget to run `rspec` (from the main directory for this lab) as you work to make sure you are passing the tests.
 
