@@ -1,9 +1,4 @@
----
-  tags: hashes, kids, iteration
-  languages: ruby
-  level: 2
-  type: lab
----
+
 ##Cheesy Mac Attack Hash
 <img src="https://s3.amazonaws.com/after-school-assets/macncheese.gif" align="right" width="400px" hspace="10"> We're going to build a hash that stores a recipe for homemade mac and cheese.
 
