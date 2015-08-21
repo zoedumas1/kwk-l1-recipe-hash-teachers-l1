@@ -21,5 +21,5 @@ In this example, the hash is stored in the variable `student_ages`. Each age is 
 
 More information about hashes can be found in the [docs](http://www.ruby-doc.org/core-2.1.1/Hash.html).
 
-###We're going to build a hash that stores the recipe of homemade mac and cheese.
-###You're going to write your code in `recipe_hash.rb`. Open `recipe_hash.rb` and follow the instructions in the file!
+We're going to build a hash that stores the recipe of homemade mac and cheese.
+You're going to write your code in `recipe_hash.rb`. Open `recipe_hash.rb` and follow the instructions in the file!
