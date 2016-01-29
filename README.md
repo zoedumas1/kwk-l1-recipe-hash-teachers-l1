@@ -23,4 +23,4 @@ More information about hashes can be found in the [docs](http://www.ruby-doc.org
 
 We're going to build a hash that stores the recipe of homemade mac and cheese.
 You're going to write your code in `recipe_hash.rb`. Open `recipe_hash.rb` and follow the instructions in the file!
-<a href='https://learn.co/lessons/hs_recipe_hash_lab' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/hs_recipe_hash_lab' title='Cheesy Mac Attack Hash'>Cheesy Mac Attack Hash</a> on Learn.co and start learning to code for free.</p>
