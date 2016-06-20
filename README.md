@@ -27,9 +27,6 @@ This is a test driven lab so open the lab in the `Learn IDE`. Then open `recipe_
 
 You're going to write your code in `recipe_hash.rb`. Open `recipe_hash.rb` and follow the instructions in the file!
 
-![](https://s3.amazonaws.com/upperline/curriculum-assets/cookies-KarliesKookies-perfect10-combined-web.png)
-
-
 Here's a version of this Perfect 10 Cookie recipe so you can make some on your own! (Recipe makes 12 cookies). 
 #####*Ingredients*
 
