@@ -1,4 +1,3 @@
-
 ##Baking with Klossy - Hashes Lab
 <img src="https://s3.amazonaws.com/upperline/curriculum-assets/Karlie%2BChristina/Karlie%2BChristina-Kookies00005.png" align="right" width="200px" hspace="10" style="border-radius: 100px; border-style: solid; border-width: 4px"> 
 
@@ -53,3 +52,4 @@ Scoop cookies firmly with a 2¼-inch ice cream scoop onto a parchment-lined shee
 
 Bake cookies for 10-12 minutes or until golden brown. Cool completely on the pan. Store in an airtight container in the fridge, or eat right away.
 
+<p data-visibility='hidden'>KWK-L1 Baking with Klossy - Hashes Lab</p>

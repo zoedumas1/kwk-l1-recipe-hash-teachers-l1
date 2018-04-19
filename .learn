@@ -7,3 +7,5 @@ languages:
 level: 2
 type:
   - lab
+
+parent_template: git@github.com:learn-co-curriculum/kwk-recipe-hash.git
