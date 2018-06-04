@@ -1,4 +1,4 @@
-##Baking with Klossy - Hashes Lab
+## Baking with Klossy - Hashes Lab
 <img src="https://s3.amazonaws.com/upperline/curriculum-assets/Karlie%2BChristina/Karlie%2BChristina-Kookies00005.png" align="right" width="200px" hspace="10" style="border-radius: 100px; border-style: solid; border-width: 4px"> 
 
 We're going to build a hash that stores the recipe of Karlie Kloss' Perfect 10 Cookie. Think of the Perfect 10 cookie as an oatmeal cookie meeting an energy bar! It's made with gluten-free oats, almonds, mini chocolate chips and sweetened with agave. Each purchase of a Perfect 10 provides ten school lunches to hungry children around the world. 
@@ -27,7 +27,7 @@ This is a test driven lab so open the lab in the `Learn IDE`. Then open `recipe_
 You're going to write your code in `recipe_hash.rb`. Open `recipe_hash.rb` and follow the instructions in the file!
 
 Here's a version of this Perfect 10 Cookie recipe so you can make some on your own! (Recipe makes 12 cookies). 
-#####*Ingredients*
+##### *Ingredients*
 
 2 cups almond flour  
 1 cup  gluten freewhole oats  
@@ -41,7 +41,7 @@ Here's a version of this Perfect 10 Cookie recipe so you can make some on your o
 ¼ cup  agave  
 
 
-#####*Directions*
+##### *Directions*
 
 Heat the oven to 325º.
 
